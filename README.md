@@ -1,4 +1,4 @@
-# Adaptive Traffic Light Optimization using Reinforcement Learning (DQN + SUMO)
+# Adaptive Traffic Light Optimization using Reinforcement Learning
 
 An intelligent traffic signal control system built using **Deep Q-Learning (DQN)** and **SUMO (Simulation of Urban Mobility)**.  
 This project dynamically adjusts traffic light phases based on real-time traffic conditions, reducing congestion and improving traffic flow.
